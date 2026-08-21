@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-fqky8f.inter778fgd.cfd/sitemap.xml
